@@ -10,7 +10,7 @@ ClearScreen
 
 
 
-Calculated 500/4 = 150.0
+Calculated 500/4 = 125.0
 
 
 [![img2.jpg](https://i.postimg.cc/wMm6TVhS/img2.jpg)](https://postimg.cc/y37qL0pP)
