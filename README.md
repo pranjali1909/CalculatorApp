@@ -1,5 +1,5 @@
 # CalculatorApp
-Simple Calculator App Android (Java)
+Simple Calculator App using Android (Java)
 
 
 ClearScreen 
